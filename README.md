@@ -7,7 +7,7 @@
 I'm Vince 😃. I'm from Singapore and I love to explore and learn about new things.
 
 
-- 📫 How to reach me: **vince.lohys@gmail.com**
+- 📫 How to reach me: ****
 
 ## 💬 Connect with me:
 <a href="https://www.facebook.com/"><img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/a.gif"></a>
