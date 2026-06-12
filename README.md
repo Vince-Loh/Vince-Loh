@@ -4,15 +4,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlvisJM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/)](https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/) [![Gmail Badge](https://img.shields.io/badge/-alvishay02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvishay02@gmail.com)](mailto:alvishay02@gmail.com)
 
-I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
+I'm Vince 😃. I'm from Singapore and I love to explore and learn about new things.
 
 
 - 📫 How to reach me: **vince.lohys@gmail.com**
 
 ## 💬 Connect with me:
-<a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/a.gif"></a>
+<a href="https://www.facebook.com/"><img src="https://github.com/Vince-Loh/Vince-Loh/blob/main/a.gif"></a>
 <p align="center">
-<a href="https://www.facebook.com/alvishay">
+<a href="https://www.facebook.com/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
 </a>
 
@@ -20,11 +20,11 @@ I'm Vince 😃. I'm from Singapore and i am currently studying at Swinburne Univ
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
 </a>
   
-<a href="https://dev.to/alvis-jm">
+<a href="https://dev.to/">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
 </a>
 	
-<a href="https://www.linkedin.com/in/vince-loh/">
+<a href="https://www.linkedin.com/in/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
 </a>
   
