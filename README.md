@@ -2,7 +2,7 @@
 <a href="https://www.facebook.com/alvishay/"><img src="https://github.com/Alvis-JM/Alvis-JM/blob/master/a.gif"></a>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlvisJM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-10146a1a2/)](https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/) [![Gmail Badge](https://img.shields.io/badge/-vince.lohys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vince.lohys@gmail.com)](mailto:vince.lohys@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vince Loh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-10146a1a2/)](https://www.linkedin.com/in/alvis-hay-ming-10146a1a2/) [![Gmail Badge](https://img.shields.io/badge/-vince.lohys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vince.lohys@gmail.com)](mailto:vince.lohys@gmail.com)
 
 I'm Vince 😃. I'm from Singapore and I love to explore and learn about new things.
 
